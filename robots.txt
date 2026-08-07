@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mohansai.github.io/docs-69sm7l/sitemap.xml
